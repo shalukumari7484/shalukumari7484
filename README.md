@@ -1,4 +1,4 @@
-![logo](https://circuitdigest.com/sites/default/files/field/image/AI-Can-Code.jpg)
+
 <h1 align="center">Hi 👋, I'm Shalu Kumari</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
 <img align="right" alt="coding" width="400" src="https://image.lexica.art/full_jpg/9d0ad988-a890-484c-ba04-ee7a9b5555a4">
