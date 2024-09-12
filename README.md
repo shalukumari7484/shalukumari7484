@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shalukumari7484&label=Profile%20views&color=0e75b6&style=flat" alt="shalukumari7484" /> </p>
 
-- 🌱 I’m currently learning **Full Stack Development and Data Structure and Algorithms.**
+- 🌱 I’m currently learning **Full Stack Development and Data Structure and Algorithm.**
 
 - 💬 Ask me about **Web development, react, node, game development, data structure and algorithm.**
 
