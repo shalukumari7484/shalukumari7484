@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Full Stack Development and Data Structure and Algorithm.**
 
-- 💬 Ask me about **Web development, react, node, game development, data structure and algorithm.**
+- 💬 Ask me about **Web development, Javascript, react, node, game development, data structure and algorithm.**
 
 - 📫 How to reach me **shalukumari7484@gmail.com**
 
